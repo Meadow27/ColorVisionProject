@@ -2,7 +2,10 @@
 
 ## Description
 
-**version 2.0**
+
+
+**version 2.0 updates**
+Added functionality for a third color. Massive cleanup of contrast evaluation and colorblindness evaluation. 
 
 This program asks for the RGB values of 2-3 colors in a color palette. 
 From these input values, it determines whether the contrast between the colors is enough for them to 
